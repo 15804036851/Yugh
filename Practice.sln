@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice.csproj", "{31F1FAD0-ED76-49B7-B2D7-F7FEA0048FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm画面", "..\WebForm画面\WebForm画面.csproj", "{74AFAB8E-103A-43CE-BBC8-D85F12C4F707}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{31F1FAD0-ED76-49B7-B2D7-F7FEA0048FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31F1FAD0-ED76-49B7-B2D7-F7FEA0048FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31F1FAD0-ED76-49B7-B2D7-F7FEA0048FF4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{74AFAB8E-103A-43CE-BBC8-D85F12C4F707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74AFAB8E-103A-43CE-BBC8-D85F12C4F707}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74AFAB8E-103A-43CE-BBC8-D85F12C4F707}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74AFAB8E-103A-43CE-BBC8-D85F12C4F707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
